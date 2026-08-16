@@ -1,8 +1,8 @@
 ## やぁ / Hi / 你好
 
-[[JA / 日本語]](https://github.com/L-port8000/L-port8000#だれ？)
+[[JA / 日本語]](https://github.com/L-port8000/L-port8000#だれ)
 
-[[EN / English]](https://github.com/L-port8000/L-port8000#Who?)
+[[EN / English]](https://github.com/L-port8000/L-port8000#Who)
 
 [[CN / Chinese (簡体)]](https://github.com/L-port8000/L-port8000#)
 
