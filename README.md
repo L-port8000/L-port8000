@@ -4,4 +4,4 @@
 
 [[EN / English]](https://github.com/L-port8000/L-port8000/blob/main/README.en.md)
 
-[[CN / Chinese (簡体)]](https://github.com/L-port8000/L-port8000/blob/main/README.cn.md)
+[[CN / 中文(簡体)]](https://github.com/L-port8000/L-port8000/blob/main/README.cn.md)
