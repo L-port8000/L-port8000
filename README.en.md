@@ -11,7 +11,7 @@
 ## What can I do?
 
 - School tablet restriction bypass squad.
-  - I am collecting CGI proxies and using iframe, so no-log(ほぼ) on School DNS and Chrome's history.
+  - I am collecting CGI proxies and using iframe, so virtually no-log on both School DNS and Chrome's history.
   - I can set up NextDNS's Bypassing restrictions. I learned from @z0uy1n (Twitter).
   - I can't Bypass the I-filter extension.
 - Studying Japanese, English, and Chinese.
